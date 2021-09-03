@@ -7,11 +7,18 @@ I'm from India, and I do Web/Graphic Designing, Developing & Programming. I real
 
 
 
-Skills: HTML / CSS / JS / Tailwind / React / Figma / Adobe Xd / Adobe PS, Ai
+## Skills:
+* 💻 HTML, CSS, JS
+* ⚛️ React JS
+* ✏️ Figma, Adobe Xd, Adobe PS, Adobe Ai
 
+## Work Progress:
 - 🔭 I’m currently working on Weintervene UI Design 
 - 🌱 I’m currently learning React JS 
 - 📫 How to reach me: naseershaik617@gmail.com 
+
+
+## Work Examples:
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shaikmohammadnaseer) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shaikmohammadnaseer/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/naseershaik_the_8055/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/NaseerS19458085)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](shaikmohammadnaseer.netlify.app) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='40'>](https://www.behance.net/naseershaik) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googleanalytics.svg' alt='googleanalytics' height='40'>](https://skillshop.exceedlms.com/student/award/HP79fj375Fuk3KavnMKtexhC)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googleads.svg' alt='googleads' height='40'>](https://skillshop.exceedlms.com/student/award/tgqqnwLiZAwYr9b4Ro1eZT2S)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/upwork.svg' alt='upwork' height='40'>](https://www.upwork.com/freelancers/~016d47150c265827e4)  
